@@ -1,7 +1,13 @@
 # APS-2021-1-Semestre
 Aplicação Chat em rede local desenvolvida em Java para trabalho acadêmico de Ciência da Computação 4 semestre UNIP.
 Documentação Completa
+
 [APS CHAT (FINAL V1.4).docx](https://github.com/eduardotula/APS-2021-1-Semestre/files/7231653/APS.CHAT.FINAL.V1.4.docx))
+
+Guia de Instalação
+
+[Guia_de_instalacao_e_utilizacao_da_aplicacao_de_chat.docx](https://github.com/eduardotula/APS-2021-1-Semestre/files/7231655/Guia_de_instalacao_e_utilizacao_da_aplicacao_de_chat.docx)
+)
 
 # Estrutura da Aplicação
 ![Casos](https://user-images.githubusercontent.com/54387145/134814255-95d4302a-ce53-4580-bbaa-e7b2cd3179fc.png)
