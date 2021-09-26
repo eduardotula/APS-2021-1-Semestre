@@ -10,17 +10,18 @@ Guia de Instalação
 )
 
 # Estrutura da Aplicação
-![Casos](https://user-images.githubusercontent.com/54387145/134814255-95d4302a-ce53-4580-bbaa-e7b2cd3179fc.png)
 
 Diagrama de caso de uso
 
-![Arquitetura](https://user-images.githubusercontent.com/54387145/134814259-72c9ca68-ef3d-4c9f-ade8-94f96997a695.png)
+![Casos](https://user-images.githubusercontent.com/54387145/134814255-95d4302a-ce53-4580-bbaa-e7b2cd3179fc.png)
 
 Arquetura da Aplicação
 
-![Modelo](https://user-images.githubusercontent.com/54387145/134814262-f7023d40-09fe-4623-8173-5bf85c780562.png)
+![Arquitetura](https://user-images.githubusercontent.com/54387145/134814259-72c9ca68-ef3d-4c9f-ade8-94f96997a695.png)
 
 Modelo de Banco de dados
+
+![Modelo](https://user-images.githubusercontent.com/54387145/134814262-f7023d40-09fe-4623-8173-5bf85c780562.png)
 
 # Interface Servidor
 ![Servidor](https://user-images.githubusercontent.com/54387145/134814216-aca9dc93-939f-4ab7-9090-27478d78c930.png)
